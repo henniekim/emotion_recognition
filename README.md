@@ -19,6 +19,8 @@ Python 2.x 버젼과, tensorflow가 필요합니다.
 
 * 0.0.1
     * 초기 작업 업로드
+* 0.0.2
+    * 간단한 Keras implementation을 추가하였습니다.
  
 ## 정보
 
