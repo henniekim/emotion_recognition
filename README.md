@@ -11,16 +11,10 @@
 ## 설치 방법
 
 ## 사용 예제
-터미널 창에서 다음과 같이 실행하세요.
-```sh
-python voc_dataset_parsing_edited.py
-```
+
 ## 개발 환경 설정
 Python 2.x 버젼과, tensorflow가 필요합니다.
 
-```sh
-pip3 install tensorflow
-```
 ## 업데이트 내역
 
 * 0.0.1
