@@ -9,8 +9,10 @@
 약 70%의 정확도를 보입니다.
 
 ## 설치 방법
+FER2013 데이터셋이 필요합니다.
 
 ## 사용 예제
+python tf_emotion_line_HaS.py
 
 ## 개발 환경 설정
 Python 2.x 버젼과, tensorflow가 필요합니다.
